@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D9358C8A1D760E3A9090574DE66C0CB52157E4D5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D9358C8A1D760E3A9090574DE66C0CB52157E4D5" : 0,
+    "A4BCF1AD536BA7CC04A98E77A6B979252C422189" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "422A5AE4-D28D-4971-B2D4-AF21E3096545",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D9358C8A1D760E3A9090574DE66C0CB52157E4D5" : "ResistorCalculator\/",
+    "A4BCF1AD536BA7CC04A98E77A6B979252C422189" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ResistorCalculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ResistorCalculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yishuangl\/ResistanceCalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A4BCF1AD536BA7CC04A98E77A6B979252C422189"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yishuangl\/ResistanceCalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D9358C8A1D760E3A9090574DE66C0CB52157E4D5"
+    }
+  ]
+}

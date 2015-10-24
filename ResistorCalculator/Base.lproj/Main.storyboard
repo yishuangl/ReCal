@@ -52,8 +52,7 @@
                                         <exclude reference="ZgI-x3-Taj"/>
                                     </mask>
                                 </variation>
-                                <variation key="heightClass=regular-widthClass=compact" misplaced="YES">
-                                    <rect key="frame" x="20" y="195" width="368" height="60"/>
+                                <variation key="heightClass=regular-widthClass=compact">
                                     <mask key="constraints">
                                         <include reference="GJ4-RI-65Z"/>
                                         <include reference="ZgI-x3-Taj"/>
@@ -85,15 +84,15 @@
                                 <exclude reference="Jgl-Vf-KKP"/>
                             </mask>
                             <mask key="constraints">
+                                <exclude reference="iml-qg-OjZ"/>
+                                <exclude reference="uFc-ck-Z5G"/>
+                                <exclude reference="HCO-31-paL"/>
+                                <exclude reference="WIA-w1-gnT"/>
+                                <exclude reference="ykW-vB-fqc"/>
                                 <exclude reference="KtN-7d-lpq"/>
                                 <exclude reference="LRc-oT-rXl"/>
                                 <exclude reference="XHz-TS-LVg"/>
                                 <exclude reference="xyI-hg-hhv"/>
-                                <exclude reference="HCO-31-paL"/>
-                                <exclude reference="WIA-w1-gnT"/>
-                                <exclude reference="ykW-vB-fqc"/>
-                                <exclude reference="iml-qg-OjZ"/>
-                                <exclude reference="uFc-ck-Z5G"/>
                                 <exclude reference="4Xx-CT-WSA"/>
                                 <exclude reference="GUJ-Xd-Clf"/>
                             </mask>
@@ -111,12 +110,12 @@
                                 <include reference="Jgl-Vf-KKP"/>
                             </mask>
                             <mask key="constraints">
-                                <include reference="XHz-TS-LVg"/>
+                                <include reference="iml-qg-OjZ"/>
+                                <include reference="uFc-ck-Z5G"/>
                                 <include reference="HCO-31-paL"/>
                                 <include reference="WIA-w1-gnT"/>
                                 <include reference="ykW-vB-fqc"/>
-                                <include reference="iml-qg-OjZ"/>
-                                <include reference="uFc-ck-Z5G"/>
+                                <include reference="XHz-TS-LVg"/>
                             </mask>
                         </variation>
                     </view>
